@@ -1,1 +1,1 @@
-# HSF-Segmentation-by-MedSegMamba
+# HSF Segmentation by MedSegMamba
